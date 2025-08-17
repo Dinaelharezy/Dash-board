@@ -1,0 +1,27 @@
+h2{
+text-align: center;
+justify-content: center;
+align-items: center;
+display: flex;
+
+}
+body{
+    background-color: rgb(136, 78, 190);
+}
+
+
+i{
+
+width: 100px;
+height: 100px;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+ div{
+
+background-color: rgb(124, 97, 149);
+box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+
+ }
